@@ -1,6 +1,7 @@
 # projektPHP
 
-Projekt napravljen prema predlošku za web portal. U zipu na LMS-U se nalazi i video tako da možete pogledati ako Vam slučajno ne radi na Vašem računalu.
+Projekt napravljen prema predlošku za web portal. U zipu na LMS-U se nalazi i video tako da možete pogledati ako Vam slučajno ne radi na Vašem računalu. 
+Ili link: https://youtu.be/wPFSI2UeEFs
 
 Također, unutra se nalazi i projekt.sql koji je potrebno importati putem XAMPPA.
 
